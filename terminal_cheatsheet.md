@@ -1,6 +1,6 @@
 # Terminal Cheatsheet
 
-| Syntax | Description |
+| Command | Description |
 | ----------- | ----------- |
 | **ls** | List - lists all content in current directory. *USAGE:* ls [OPTION]. Example: [ls Example](https://i.imgur.com/5Y7UgkH.png)|
 | **mkdir** | Make directory - makes a new directory in current directory. *USAGE:* mkdir [DIRECTORY] (Addtional directories)|
@@ -17,6 +17,5 @@
 | **exit** | Closes current session of terminal. *USAGE:* exit |
 | **cat** | Outputs all the contents of a file. *USAGE:* cat [FILE] |
 | **open** | Opens a file in terminal *USAGE:* open [FILE]|
-
 
 ---
