@@ -17,5 +17,6 @@
 | **exit** | Closes current session of terminal. *USAGE:* exit |
 | **cat** | Outputs all the contents of a file. *USAGE:* cat [FILE] |
 | **open** | Opens a file in terminal *USAGE:* open [FILE]|
-
+| **nano** | Built in editor for Terminal, can edit files such as .md files. *USAGE:* nano [FILE] |
 ---
+
